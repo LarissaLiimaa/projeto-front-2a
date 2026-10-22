@@ -1,3 +1,4 @@
+
 'use client'; // informa que o conteúdo será renderizado do lado do cliente
 import { useState } from 'react';  // importa o estado
 import styles from './page.module.css';
