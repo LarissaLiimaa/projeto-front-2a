@@ -1,0 +1,7 @@
+.tbl {
+    border-collapse: collapse;
+}
+.tbl td, .tbl th {
+    border: 1px solid black;
+    padding: 5px;
+}
